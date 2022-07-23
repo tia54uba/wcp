@@ -4,9 +4,9 @@ public class Chapter05 {
 	public static void main(String[] args) {
         long l = 10000000000L;
         System.out.println(l);
-        double d = 3.14;
+        double d = 1.1;
         System.out.println(d);
-        boolean b = true;
+        boolean b = false;
         System.out.println(b);
 
         Integer i = 100;
