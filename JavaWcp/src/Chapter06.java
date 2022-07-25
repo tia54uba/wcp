@@ -2,7 +2,7 @@
 public class Chapter06 {
 	
     public static void main(String[] args) {
-        int val = 2 + 5;
+        int val = 4 + 5;
         System.out.println(val);
 
         val++;
