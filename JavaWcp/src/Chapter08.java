@@ -4,7 +4,7 @@ public class Chapter08 {
 	 public static void main(String[] args) {
 	        // 1.「while」文
 	        int num = 1;
-	        while (num < 5) {
+	        while (num < 10) {
 	            System.out.println(num * num);
 	            num++;
 	        }
@@ -15,7 +15,7 @@ public class Chapter08 {
 	        }
 	        // 3. 拡張「for」文
 	        for (int val : array) {
-	            if (val % 2 == 0) {
+	            if (val % 3 == 0) {
 	                continue;
 	            }
 	            System.out.println(val);
