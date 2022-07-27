@@ -4,7 +4,7 @@ public class Human01 {
 
     //引数なしのコンストラクタ
     public Human01() {
-        name = "山田";
+        name = "山本";
         age = 20;
     }
     //引数2つのコンストラクタ
